@@ -1,0 +1,14 @@
+{
+  "name": "jsutilsinwork",
+  "version": "1.0.0",
+  "description": "Used for testing STUN/TURN server is ok ? open browser",
+  "main": "testSTUNorTURNserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
